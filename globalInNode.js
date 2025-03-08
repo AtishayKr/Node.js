@@ -9,6 +9,8 @@ console.log(require)
 // 3. process -> It is an object, It gives you information about the current process
 console.log(process)
 
+// 4. module -> It is an object, It gives you information about the current module
+console.log(module)
 
 
 
